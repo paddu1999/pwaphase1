@@ -1,0 +1,30 @@
+body{
+  background: #866e69;
+}
+.main1{
+  background: #f5b041;
+  display: flex;
+  justify-content: space-around;
+  padding: 1%;
+}
+.left{
+  width:30%;
+  background: #d23209;
+  margin: 2%;
+  text-align: center;
+  border-radius: 30px;
+}
+.right{
+  background: #22b7c8;
+  width: 65%;
+  padding-left: 1%;
+  text-align: left;
+  margin-left: 2%;
+  border-radius: 30px;
+}
+img{
+  width:100%;
+}
+table{
+  border: 1px solid red;
+}

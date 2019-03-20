@@ -1,0 +1,44 @@
+{
+"basics":
+{
+
+  "img":"images/paddu.jpg",
+  "name":"padmakumari",
+  "email":"padmakumari@gmail.com"
+},
+"career":{
+  "info":" i want to seek a position where i can explore my thoughts and skills for the benefits of the organisation"
+},
+"Education":[
+{
+  "sno":"1",
+  "degree": "b.tech" ,
+  "institue":"dgc",
+  "per":"2018"
+},
+{
+  "sno":"2",
+  "degree": "intermediate" ,
+  "institue":"dgc",
+  "per":"2014"
+},
+{
+  "sno":"3",
+  "degree": "cbse" ,
+  "institue":"dgc",
+  "per":"2012"
+}
+],
+"techical skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+
+}
